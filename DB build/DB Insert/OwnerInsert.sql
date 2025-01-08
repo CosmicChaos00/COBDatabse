@@ -1,0 +1,9 @@
+INSERT INTO Owner(MemberID,FarmID) VALUES ('M1012','RI-200');
+INSERT INTO Owner(MemberID,FarmID) VALUES ('M1013','AF-100');
+INSERT INTO Owner(MemberID,FarmID) VALUES ('M1023','VA-300');
+INSERT INTO Owner(MemberID,FarmID) VALUES ('M1024','F-8');
+INSERT INTO Owner(MemberID,FarmID) VALUES ('M1201','VA-300');
+INSERT INTO Owner(MemberID,FarmID) VALUES ('M1202','AA4');
+INSERT INTO Owner(MemberID,FarmID) VALUES ('M1203','Mill-1');
+INSERT INTO Owner(MemberID,FarmID) VALUES ('M1204','Mill-2');
+

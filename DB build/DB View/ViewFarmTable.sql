@@ -1,0 +1,2 @@
+CREATE VIEW ViewFarmTable AS
+SELECT * FROM Farm

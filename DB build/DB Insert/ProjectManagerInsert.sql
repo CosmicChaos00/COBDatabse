@@ -1,0 +1,1 @@
+INSERT INTO ProjectManager(MemberID,NextProjRev) VALUES ('M0000',NULL);

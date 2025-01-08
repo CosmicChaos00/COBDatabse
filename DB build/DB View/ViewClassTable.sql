@@ -1,0 +1,2 @@
+CREATE VIEW ViewClassTable AS
+SELECT * FROM Class

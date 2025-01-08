@@ -1,0 +1,2 @@
+CREATE VIEW ViewFieldTable AS
+SELECT * FROM Field;
